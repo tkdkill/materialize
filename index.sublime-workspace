@@ -1,0 +1,723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"op",
+				"opcao"
+			],
+			[
+				"inc",
+				"includ"
+			],
+			[
+				"sub",
+				"submit\t(index.php)"
+			],
+			[
+				"lor",
+				"lorem\tlorem - Medium paragraph"
+			],
+			[
+				"ci",
+				"circular\t(style.css)"
+			],
+			[
+				"bor",
+				"border-bottom\t(style.css)"
+			],
+			[
+				"cent",
+				"center-align\t(style.css)"
+			],
+			[
+				"mi",
+				"minim\t(index.php)"
+			],
+			[
+				"im",
+				"img\timg"
+			],
+			[
+				"so",
+				"sobremesa"
+			],
+			[
+				"_i",
+				"_img/"
+			],
+			[
+				"fig",
+				"figure"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"cla",
+				"class='galeria"
+			],
+			[
+				"for",
+				"form\t<form>"
+			],
+			[
+				"_",
+				"_img"
+			],
+			[
+				"fi",
+				"figure\t<figure>"
+			],
+			[
+				"ar",
+				"article\t<article>"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"Se",
+				"semTipo"
+			],
+			[
+				"in",
+				"inteiro"
+			],
+			[
+				"f",
+				"fmt"
+			],
+			[
+				"Print",
+				"Println"
+			],
+			[
+				"u",
+				"uploads"
+			],
+			[
+				"mov",
+				"move_uploaded_file($_FILES['ficheiro']['tmp_name"
+			],
+			[
+				"prin",
+				"print\t(aula_12.php)"
+			],
+			[
+				"ti",
+				"tiposPermitidos"
+			],
+			[
+				"print",
+				"print_r($nome"
+			],
+			[
+				"cols",
+				"colspan='2"
+			],
+			[
+				"el",
+				"else\t(aula_08_if.php)"
+			],
+			[
+				"class",
+				"class='campo\t(index.php)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"_c",
+				"_css/"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"q",
+				"qtd"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"w",
+				"while\twhile …"
+			],
+			[
+				"esta",
+				"estados"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"dis",
+				"display\t(style13.css)"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"margin-l",
+				"margin-left"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"date",
+				"date('D"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"Po",
+				"POST\t(aula_09_Switch.php)"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"p",
+				"processa10.2.php"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"parse",
+				"parse_ini_file"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"o",
+				"opcao"
+			],
+			[
+				"inclu",
+				"INCLUDE_ONCE"
+			],
+			[
+				"n",
+				"nome\t(aula02.js)"
+			],
+			[
+				"l",
+				"link\t(aula03.html)"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"dar",
+				"darkcyan"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"s",
+				"section\t<section>"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"red",
+				"readline_redisplay"
+			],
+			[
+				"nota",
+				"nota2"
+			],
+			[
+				"de",
+				"details\t<details>"
+			],
+			[
+				"documen",
+				"document.write"
+			],
+			[
+				"pe",
+				"peaple"
+			],
+			[
+				"do",
+				"document\t(aula08.js)"
+			],
+			[
+				"al",
+				"alert\t(aula02.js)"
+			],
+			[
+				"conta",
+				"contador"
+			],
+			[
+				"li",
+				"linguagens"
+			],
+			[
+				"si",
+				"situacao"
+			],
+			[
+				"to",
+				"toString\t(aula04.js)"
+			],
+			[
+				"conso",
+				"console.log\t(aula02.js)"
+			],
+			[
+				"peso",
+				"pessoa2"
+			],
+			[
+				"coso",
+				"console.log"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"fu",
+				"function\t(aula02.js)"
+			],
+			[
+				"msg",
+				"msglocal"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"alert",
+				"alerta3"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"po",
+				"por"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"Forn",
+				"Fornecedor"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"curso-",
+				"curso-word.png\tw:200 h:200"
+			],
+			[
+				"h",
+				"header\tTag"
+			],
+			[
+				"v",
+				"viwport\t(index.html)"
+			],
+			[
+				"border-bo",
+				"border-box"
+			],
+			[
+				"bAC",
+				"background-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"ca",
+				"class\tAttr"
+			],
+			[
+				"scr",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: go",
+		"selected_items":
+		[
+			[
+				"Package Control: go",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/FSNCursosOnline/Curso_Basico_PHP/tutorial-php/_imagens/PJabaquara.jpg",
+		"/C/xampp/htdocs/FSNCursosOnline/Curso_Basico_PHP/tutorial-php/aula_03.php",
+		"/C/xampp/htdocs/FSNCursosOnline/Curso_Basico_PHP/tutorial-php/aula_02.php",
+		"/C/xampp/htdocs/FSNCursosOnline/Curso_Basico_PHP/tutorial-php/aula_01.php",
+		"/F/E-Books/Arrays_AP/Adam Khoury/Multidimensional_Array/example.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula08/aula08.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula07/aula07.js",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula07/aula07.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula06/aula06.js",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula06/aula06.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula05/aula05.js",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula05/aula05.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula04/aula04.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula03/steyle.css",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula02/aula02.js",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula02/aula02.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/aula02.js",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/aula02.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/Aula03/aula03.html",
+		"/C/Users/António Pinho/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/Ferreira Studios/DESENVOLVIMENTO WEB/Trabalhos AP/Aula13_17/flappybirg/index.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/formularios.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/registo.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/utilizadores.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/RBtech/Curso de Javascript para iniciantes/Trabalho AP/Javascript/aula01.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/js/script.js",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/registoFornecedores.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/registoClientes.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/css/estilo.css",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/css/utilizadores.css",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/FSN Cursos Online/Curso Completo de HTML5 e CSS3 - 2016/Trabalho AP/public_html/css/reset.css",
+		"/C/xampp/htdocs/PTWeb/Trabalho3/form.html",
+		"/C/xampp/htdocs/projeto-glass-html5/fale-conosco.html",
+		"/F/E-Books/Cursos/Curso várias linguagens Programação/Caffeine Algorithm/Desenvolver em HTML5 & CSS3/Trabalhos AP/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
