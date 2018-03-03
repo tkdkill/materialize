@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<!-- aula 07 - Criando Menu Responsivo Com Materialize -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Curso de Materialize</title>
+
+	<!--Import Google Icon Font-->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!-- Importando arquivos CSS -->
+	<link rel="stylesheet" href="css/materialize.min.css">
+	<link rel="stylesheet" href="css/custom.css">	
+</head>
+<body>
+	
+	<nav>
+		<div class="nav-warapper container">
+			<img src="imagens/log.png" alt="log" class="brand-logo" width="40" height="40" >
+			<a href="" class="button-collapse" data-activates="mobile"><i class="material-icons">menu</i></a>
+
+			<!-- Menu para desktop -->
+			<ul class="right hide-on-med-and-down">
+				<li><a href=""><i class="material-icons left">home</i>Home</a></li>
+				<li><a href=""><i class="material-icons left">work</i>Portfólio</a></li>
+				<li><a href=""><i class="material-icons left">contacts</i>Contacto</a></li>
+			</ul>
+
+			<!-- Menu para dispositivos móveis -->
+			<!-- ul>li*3 -->
+			<ul class="side-nav" id="mobile">
+				<li><a href=""><i class="material-icons left">home</i>Home</a></li>
+				<li><a href=""><i class="material-icons left">work</i>Portfólio</a></li>
+				<li><a href=""><i class="material-icons left">contacts</i>Contacto</a></li>		
+			</ul>
+
+		</div>
+	</nav>
+	
+
+
+	<!-- Importar ficheiros JavaScript e jQuery -->
+	<script src="js/jquery-3.2.1.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<script src="js/materialize.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<!-- Configuração jQuery e js -->
+	<script type="text/javascript">
+		$('.button-collapse').sideNav();
+	</script>
+</body>
+</html>
