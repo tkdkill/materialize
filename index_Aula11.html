@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<!-- aula 10 - Cards(Parte 2) -->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Curso de Materialize</title>
+
+	<!--Import Google Icon Font-->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<!-- Importando arquivos CSS -->
+	<link rel="stylesheet" href="css/materialize.min.css">
+	<link rel="stylesheet" href="css/custom.css">	
+</head>
+<body>
+	
+	<!-- Escurecer o clarial as cores 'lighten' claria 'darken' escurece -->
+	<nav class="blue darken-1">
+		<div class="nav-warapper container">
+			<img src="imagens/log1.png" alt="log" class="brand-logo" width="40" height="40" >
+			<a href="" class="button-collapse" data-activates="mobile"><i class="material-icons">menu</i></a>
+
+			<!-- Menu para desktop -->
+			<ul class="right hide-on-med-and-down">
+				<li><a href=""><i class="material-icons left">home</i>Home</a></li>
+				<li><a href=""><i class="material-icons left">work</i>Portfólio</a></li>
+				<li><a href=""><i class="material-icons left">contacts</i>Contacto</a></li>
+			</ul>
+
+			<!-- Menu para dispositivos móveis -->
+			<!-- ul>li*3 -->
+			<ul class="side-nav" id="mobile">
+				<li><a href=""><i class="material-icons left">home</i>Home</a></li>
+				<li><a href=""><i class="material-icons left">work</i>Portfólio</a></li>
+				<li><a href=""><i class="material-icons left">contacts</i>Contacto</a></li>		
+			</ul>
+
+		</div>
+	</nav>
+
+	<!-- BANNER SLIDER -->
+	<div class="slider">
+		<ul class="slides">
+			<li>
+				<img src="imagens/banner-1.jpg" alt="" class="responsive-img">
+				<div class="caption left-align green-text">
+					<h3>Lorem Ipsum</h3>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>			
+				</div>
+			</li>
+			<li>
+				<img src="imagens/banner-2.jpg" alt="" class="responsive-img">
+				<div class="caption right-align red-text">
+					<h3>Lorem Ipsum</h3>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+				</div>
+			</li>
+			<li>
+				<img src="imagens/banner-7.jpg" alt="" class="responsive-img">
+				<div class="caption center-align blue-text">
+					<h3>Lorem Ipsum</h3>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+				</div>
+			</li>			
+		</ul>
+	</div>
+
+	<div class="row"></div>
+
+	<!-- CARDS(CARTÕES) -->
+	<section class="row container">
+		<article class="col s12 m6">
+			
+			<div class="card sticky-action">
+				<div class="card-image">
+					<img src="imagens/card-image-2.jpg" alt="">
+				</div>
+				<div class="card-content">
+					<span class="card-totle activator">Lorem Ipsum<i class="material-icons right">more_vert</i></span>
+					<p>
+						Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+					</p>
+				</div>
+				<div class="card-reveal">
+					<div class="card-content">
+						<span class="card-title activator">Lorem Ipsum <i class="material-icons right">close</i></span>
+						<p>
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+						</p>
+						<img src="imagens/card-image-vert-1.jpg" class="hoverable" alt="">
+						<img src="imagens/card-image-vert-2.jpg" class="hoverable" alt="">
+						<img src="imagens/card-image-vert-3.jpg" class="hoverable" alt="">
+					</div>
+				</div>
+				<div class="card-action"><a href="" class="btn">Ler mais</a></div>
+			</div>
+
+			
+		</article>			
+
+	</section>
+
+	
+	
+
+
+	<!-- Importar ficheiros JavaScript e jQuery -->
+	<script src="js/jquery-3.2.1.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<script src="js/materialize.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<!-- Configuração jQuery e js -->
+	<script type="text/javascript">
+		$('.button-collapse').sideNav();
+		$('.slider').slider();
+	</script>
+</body>
+</html>
